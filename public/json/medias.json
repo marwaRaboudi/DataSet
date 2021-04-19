@@ -1,0 +1,62 @@
+[
+  {
+    "mediaId": 1,
+    "name": "LABELING_PACKAGING",
+    "value": "Labeling/Packaging"
+  },
+  {
+    "mediaId": 2,
+    "name": "NEW_PRODUCT_INNOVATION",
+    "value": "New Product/innovation"
+  },
+  {
+    "mediaId": 3,
+    "name": "OOH",
+    "value": "OOH"
+  },
+  {
+    "mediaId": 4,
+    "name": "SPONSORSHIP",
+    "value": "Sponsorship"
+  },
+  {
+  "mediaId": 5,
+  "name": "PRINT",
+  "value": "Print"
+  },
+  {
+    "mediaId": 6,
+    "name": "PROMOTIONS",
+    "value": "Promotions"
+  },
+  {
+    "mediaId": 7,
+    "name": "RADIO",
+    "value": "Radio"
+  },
+  {
+    "mediaId": 8,
+    "name": "SOCIAL_MEDIA",
+    "value": "Social media"
+  },
+  {
+    "mediaId": 9,
+    "name": "TVC_ONLINE_VIDEOS",
+    "value": "TVC/Online videos"
+  },
+  {
+    "mediaId": 10,
+    "name": "RADIO",
+    "value": "Radio"
+  },
+  {
+    "mediaId": 11,
+    "name": "OTHERS",
+    "value": "Others"
+  },
+  {
+    "mediaId": 12,
+    "name": "COLLABORATION",
+    "value": "Collaboration"
+  }
+]
